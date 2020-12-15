@@ -9,7 +9,7 @@
 <h3 style=“color:blue; font-family: arial;”>Creating an HTML Document</h3>
 <p>You can easily create simple web pages in Word by just saving a Word document as a web page. However, for full functionality and control, it’s best to use a simple text editor such as Notepad in Windows.  All HTML documents begin with a DOCTYPE declaration that defines the document type followed by &lt;HTML&gt; and &lt;body&gt; to indicate that this is a web document, and visible page content, respectively. Headings are denoted by levels, H1 is the highest level of heading, H2 is the next highest heading level, and so forth to H6. </p> 
 
-<img src=“Samana.JPEG” width="400" height="175" style="float:right; padding:20px;">
+<img src=“Samana.JPG” width="400" height="175" style="float:right; padding:20px;">
 <h3>List of HTML/CSS Tutorials to Learn</h3>
 <li>W3Schools - href="https://www.w3schools.com/default.asp">visit website li>
 <li>W3Schools - https://www.w3schools.com/css/css_float.asp li>
